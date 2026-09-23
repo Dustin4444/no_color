@@ -6,5 +6,5 @@ source "https://rubygems.org"
 #  gem "rb-kqueue", ">= 0.2"
 #end
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", ">= 226", group: :jekyll_plugins
 gem "webrick"
